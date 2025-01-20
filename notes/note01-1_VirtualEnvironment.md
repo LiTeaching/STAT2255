@@ -178,7 +178,7 @@ conda rename -n old_name new_name
 1. create a new virtual environment
 
 ```shell
-conda create -n stat2255 python=3.12.4
+conda create -n stat2255 python=3.12.8
 ```
 
 2. activate the virtual environment
@@ -210,10 +210,10 @@ In case Jupyter notebook does not load correctly in you browser, you can try the
 
 ```shell
     To access the server, open this file in a browser:
-        file:///home/ossifragus/.local/share/jupyter/runtime/jpserver-306254-open.html
+        file:///Users/wel17017/Library/Jupyter/runtime/jpserver-5994-open.html
     Or copy and paste one of these URLs:
-        http://localhost:8888/tree?token=79fbaa927aec8dfc33c71e15cbc70b086fd63d4d66d4ecf6
-        http://127.0.0.1:8888/tree?token=79fbaa927aec8dfc33c71e15cbc70b086fd63d4d66d4ecf6
+        http://localhost:8888/tree?token=f0e2d009777196fb885e908020824f92bb4ed34690a35c95
+        http://127.0.0.1:8888/tree?token=f0e2d009777196fb885e908020824f92bb4ed34690a35c95
 ```
 
 <!-- 4. Add the stat2255 kernel in jupyter -->
