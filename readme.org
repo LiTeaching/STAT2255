@@ -31,7 +31,7 @@ AI.
 * Python
 An easy way to setup Python is to use [[https://docs.conda.io/en/latest/][conda]] by installing [[https://docs.conda.io/en/latest/miniconda.html][miniconda]] or
 [[https://www.anaconda.com/download/][anaconda]]. Here is are some comparisons between the two distribution [[https://conda.io/projects/conda/en/latest/user-guide/install/download.html#anaconda-or-miniconda][anaconda vs
-miniconda]].
+miniconda]]. Download [[https://www.anaconda.com/download/success][installers]].
 
 # If you'd prefer that conda's base environment not be activated on startup,
 # set the auto_activate_base parameter to false:
