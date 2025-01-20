@@ -10,4 +10,4 @@ dependencies:
   - statsmodels=0.14.2
   - seaborn=0.13.2
   - numpy=1.26.4
-prefix: /home/ossifragus/miniconda3/envs/stat2255
+prefix: /home/wenruili/miniconda3/envs/stat2255
