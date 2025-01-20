@@ -116,7 +116,7 @@ After the above creation, we have new virtual environments. Using `conda
 conda activate my_venv
 ```
 
-Try `shell conda env list` again to see the effect.
+Try `conda env list` again to see the effect.
 
 ## Exporting environment specifications to YAML file
 
