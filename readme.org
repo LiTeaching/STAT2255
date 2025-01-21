@@ -15,6 +15,8 @@
 
 - Prerequisite: MATH 1132Q, or instructor consent.
 
+- Notes: will be posted on this [[https://github.com/LiTeaching/stat2255][GitHub repo]]: *https://github.com/LiTeaching/stat2255*.
+
 * Course objectives
 Introduction to statistical programming via Python including data types, control
 flow, object-oriented programming, and graphical user interface-driven
