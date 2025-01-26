@@ -13,7 +13,10 @@
   - Office Hours: *TuTh 11:00AM - 12:00PM, AUST 304*, or by appointment
   - Email: *wenrui.li@uconn.edu*
 
-- Prerequisite: MATH 1132Q, or instructor consent.
+- Grader: Riyanka Bhowal
+  - Email: *dvk24005@uconn.edu*
+
+- Prerequisite: MATH 1132Q, or instructor consent. Recommended preparation: CSE 1010 or prior programming experience. 
 
 - Notes: will be posted on this [[https://github.com/LiTeaching/STAT2255][GitHub repo]]: *https://github.com/LiTeaching/STAT2255*.
 
