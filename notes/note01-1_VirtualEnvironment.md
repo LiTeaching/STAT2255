@@ -190,7 +190,10 @@ conda activate stat2255
 3. Install ipykernel and jupyter
 
 ```shell
-# conda install -c anaconda ipykernel
+conda install -c anaconda ipykernel
+```
+
+```shell
 conda install jupyter
 ```
 
