@@ -84,7 +84,7 @@ You need [[https://pandoc.org/][pandoc]] and xelatex to export pdf files from ju
 - Download and install [[https://miktex.org/download][MiKTeX]] (better with Windows) or [[https://tug.org/mactex/][MacTeX]] (Mac only).
 - You may need to restart your anaconda prompt and/or shell for the two
   newly installed software to work. 
-- With MiKTeX the fist time you export a pdf file, you need to *wait for a while*,
+- With MiKTeX the first time you export a pdf file, you need to *wait for a while*,
   because it needs to fetch necessary packages online.
 
 *** A temp ad-hoc solution -- print the webpage
