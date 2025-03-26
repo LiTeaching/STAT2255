@@ -53,6 +53,8 @@ miniconda]]. Download [[https://www.anaconda.com/download/success][installers]].
 | Final                     |    40% |
 |---------------------------+--------|
 
+As a rough guide: A = 88 - 100, B = 74 - 87, C = 60 - 73, D = 50 - 59, F = 0 - 49. Final scores will be curved if deemed necessary by the instructor. 
+
 * Exams and quizzes
 The midterm exam will be held in class on Thursday, and the final exam will be
 held at UConn scheduled date. They are closed book and closed
