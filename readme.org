@@ -57,7 +57,8 @@ As a rough guide: A = 88 - 100, B = 74 - 87, C = 60 - 73, D = 50 - 59, F = 0 - 4
 
 * Exams and quizzes
 The midterm exam will be held in class on Thursday, and the final exam will be
-held at UConn scheduled date. They are closed book and closed
+held at UConn scheduled date. The midterm exam is closed book and closed
+notes. The final exam is open book and open
 notes. *No Make-up Exams!* The following is exam schedule.
 
 - Midterm: <2025-03-13 Thu>, in class.
