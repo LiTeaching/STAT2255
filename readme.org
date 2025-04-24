@@ -48,12 +48,31 @@ miniconda]]. Download [[https://www.anaconda.com/download/success][installers]].
 
 | Category                  | Weight |
 |---------------------------+--------|
-| Homework + quizzes        |    30% |
+| Homework       	    |    25% |
+| Quiz 	                    |    5%  |
 | Midterm                   |    30% |
 | Final                     |    40% |
 |---------------------------+--------|
 
-As a rough guide: A = 88 - 100, B = 74 - 87, C = 60 - 73, D = 50 - 59, F = 0 - 49. Final scores will be curved if deemed necessary by the instructor. 
+General explanation of the meaning of grades:
+
+| Explanation               | Letter Grade |    Range  	 |
+|---------------------------+--------------+-------------|
+| Distinction      	    |      A       |   [90,100]  | 
+| 	                    |      A-      |   [88,90)   | 
+| Good Quality      	    |      B+      |   [83,88)   | 
+|  		      	    |      B       |   [78,83)   | 
+|  		      	    |      B-      |   [74,78)   |
+| Below Expected Standard   |      C+      |   [69,74)   |
+|  		      	    |      C       |   [64,69)   | 
+|  		      	    |      C-      |   [60,64)   |
+| Unsatisfactory Quality    |      D+      |   [57,60)   |
+|  		      	    |      D       |   [53,57)   |
+|  		      	    |      D-      |   [50,53)   |
+|  	Failure  	    |      F       |   [0,50)    |
+|---------------------------+--------------+-------------|
+
+Final scores will be curved if deemed necessary by the instructor. 
 
 * Exams and quizzes
 The midterm exam will be held in class on Thursday, and the final exam will be
