@@ -14,7 +14,21 @@
 - Grader: Riyanka Bhowal (email: dvk24005@uconn.edu)
 
 * Course Materials
-- Notes: will be posted on this [[https://github.com/LiTeaching/STAT2255][GitHub repo]]: *https://github.com/LiTeaching/STAT2255*.
+Participation in this course requires the use of a personal computer such as a laptop or a desktop. The University has set minimum 
+[[https://kb.uconn.edu/space/IKB/10852500927/Student+Device+Requirements][device requirements for all students]].
+
+We will use the open-source software Python. An easy way to setup Python is to use [[https://docs.conda.io/en/latest/][conda]] by installing [[https://docs.conda.io/en/latest/miniconda.html][miniconda]] or
+[[https://www.anaconda.com/download/][anaconda]]. Here is are some comparisons between the two distribution [[https://conda.io/projects/conda/en/latest/user-guide/install/download.html#anaconda-or-miniconda][anaconda vs
+miniconda]]. Download [[https://www.anaconda.com/download/success][installers]].
+
+# If you'd prefer that conda's base environment not be activated on startup,
+# set the auto_activate_base parameter to false:
+# conda config --set auto_activate_base false
+
+Notes for this course will be posted on the GitHub repo: https://github.com/LiTeaching/STAT2255. There is no required textbook. Recommended text includes
+- The Python Tutorial: available from the Python website https://docs.python.org/3/tutorial/. This is a dense but complete overview of the most important parts of the language.
+- Style Guide for Python Code: available from the Python website http://www.python.org/dev/peps/pep-0008/. This is the official style guide to Python, and it contains many helpful programming tips.
+- Think Stats - Exploratory Data Analysis in Python: freely available online at https://greenteapress.com/wp/think-stats-2e/.
 
 * Course Description
 Introduction to statistical programming via Python including data types, control
@@ -36,14 +50,6 @@ can be helpful for checking your code or explaining codes you don't understand,
 but they should not be relied upon to generate your code. It's crucial to fully
 understand the code you write and be able to code without access to generative
 AI.
-* Python
-An easy way to setup Python is to use [[https://docs.conda.io/en/latest/][conda]] by installing [[https://docs.conda.io/en/latest/miniconda.html][miniconda]] or
-[[https://www.anaconda.com/download/][anaconda]]. Here is are some comparisons between the two distribution [[https://conda.io/projects/conda/en/latest/user-guide/install/download.html#anaconda-or-miniconda][anaconda vs
-miniconda]]. Download [[https://www.anaconda.com/download/success][installers]].
-
-# If you'd prefer that conda's base environment not be activated on startup,
-# set the auto_activate_base parameter to false:
-# conda config --set auto_activate_base false
 
 * Grading
 
@@ -137,23 +143,6 @@ Be sure to adjust the width of your browser to make the pdf print look better.
 10. Data Visualization and Hypothesis Testing (1 week)
 11. Random Variable Generation (1 week)
 
-* References
-
-1. Devroye, Luc. (2013). Non-Uniform Random Variate Generation. Springer-Verlag.
-2. Lutz, Mark. (2013). Learning Python: Powerful Object-Oriented Programming. United States: O'Reilly Media.
-3. McKinney, Wes. (2013). [[https://wesmckinney.com/book/python-basics.html][Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython.]] O'Reilly Media. ISBN: 9789351100065. 
-4. Sheehy, Donald R. (2022). [[https://donsheehy.github.io/datastructures/fullbook.pdf][A First Course on Data Structures in Python]].
-# 5. [[https://github.com/datawhalechina/joyful-pandas][Pandas Practice Dataset]].
-
-** Two quick reference cards
- - [[https://www.cs.put.poznan.pl/csobaniec/software/python/py-qrc.html][Python 3 – Quick Reference Card]]
- - [[https://quickref.me/python.html][Python cheatsheet]]
-
-** Python exercises with sample solutions
- - [[https://www.w3resource.com/python-exercises/][Python Exercises, Practice, Solution]]
-
-** Python Tutor
- - https://pythontutor.com/visualize.html
 
 * Academic Integrity
 
