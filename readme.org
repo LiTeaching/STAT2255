@@ -90,10 +90,11 @@ of other quizzes to replace a missed quiz score. Otherwise, you will receive a 0
 
 *Midterm Exam* 
 
-Midterm will consist of multiple choice questions, and short answer questions. 
+Midterm exam will consist of multiple choice questions, true/false questions and short answer questions. It will be held in class on March 13. The midterm exam is closed book and closed notes. No make-up exam. Exceptions may be considered in case of an emergency that is documented (in writing) by the Dean of Students Office, Office of Student Services and Advocacy, Health Center, or other university official.
 
 *Final Exam* 
 
+There will be one final exam during the exam week. It is open book and open notes. Questions will primarily involve generating random numbers, hypothesis testing, visualizing, and analyzing data. The exam should be submitted through HuskyCT. Final exam submissions must contains a .pdf file along with source code in .ipynb, .md, or .py format. No make-up exam. Exceptions may be considered in case of an emergency that is documented (in writing) by the Dean of Students Office, Office of Student Services and Advocacy, Health Center, or other university official. 
 
 *Grading Scale:*
 
@@ -121,15 +122,7 @@ General explanation of the meaning of grades:
 
 Final scores will be curved if deemed necessary by the instructor. 
 
-* Exams and quizzes
-The midterm exam will be held in class on March 13, and the final exam will be
-held at UConn scheduled date. The midterm exam is closed book and closed
-notes. The final exam is open book and open
-notes. No Make-up Exams. Exceptions may be considered in case of an emergency that is documented (in writing) by the Dean of Students Office, Office of Student Services and Advocacy, Health Center, or other university official. The following is exam schedule.
-
-- Midterm: <2025-03-13 Thu>, in class.
-- Final: <2025-05-06 Tue>, 8:00AM - 10:00AM, AUST 434.
-
+*Feedback and Grades:*
 
 
  
