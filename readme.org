@@ -5,10 +5,10 @@
 - Course Title: Statistical Programming
 - Credits: 3.0
 - Format: In-person lecture (TuTh 9:30AM-10:45AM, AUST 434)
-- Prerequisite: MATH 1132Q, or instructor consent. Recommended preparation: CSE 1010 or prior programming experience. 
+- Prerequisites: MATH 1132Q, or instructor consent. Recommended preparation: CSE 1010 or prior programming experience. 
 - Professor: Dr. Wenrui Li
 - Pronouns: she/her/hers
-- Email: wenrui.li@uconn.edu
+- Email: [[mailto:wenrui.li@uconn.edu][wenrui.li@uconn.edu]]
 - Office Hours: TuTh 11:00AM - 12:00PM in AUST 304, or by appointment
 
 - Grader: Riyanka Bhowal (email: dvk24005@uconn.edu)
