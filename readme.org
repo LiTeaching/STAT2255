@@ -25,7 +25,7 @@ miniconda]]. Download [[https://www.anaconda.com/download/success][installers]].
 # set the auto_activate_base parameter to false:
 # conda config --set auto_activate_base false
 
-Notes for this course will be posted on the GitHub repo: https://github.com/LiTeaching/STAT2255. There is no required textbook. Recommended text includes
+Notes for this course will be posted on the GitHub repository: https://github.com/LiTeaching/STAT2255. There is no required textbook. Recommended text includes
 - The Python Tutorial: available from the Python website https://docs.python.org/3/tutorial/. This is a dense but complete overview of the most important parts of the language.
 - Style Guide for Python Code: available from the Python website http://www.python.org/dev/peps/pep-0008/. This is the official style guide to Python, and it contains many helpful programming tips.
 - Think Stats - Exploratory Data Analysis in Python: freely available online at https://greenteapress.com/wp/think-stats-2e/.
