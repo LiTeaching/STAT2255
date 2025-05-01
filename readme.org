@@ -212,7 +212,7 @@ regular business hours through the [[https://techsupport.uconn.edu][Technology S
 
 * Study Groups
 
-Are you interested in forming a study group with other students in the class? There is a study group application in Nexus that can help you get started. View this video for more information.
+Are you interested in forming a study group with other students in the class? There is a [[https://nexus.uconn.edu/secure_per/studygroups/index.php][study group application]] in Nexus that can help you get started. View this [[https://nexus.uconn.edu/secure_per/studygroups/video.php][video]] for more information.
 
 * Minimum Technical Skills
 
