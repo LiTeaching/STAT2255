@@ -124,8 +124,16 @@ Final scores will be curved if deemed necessary by the instructor.
 
 *Feedback and Grades:*
 
+The grader strives to post grades on HuskyCT within one week of homework deadlines and quizzes. Exam grades will be released within one week after the exam closes. 
 
- 
+*Due Dates and Late Policy:*
+
+All course due dates are identified in their respective submission portals on HuskyCT. Deadlines are based on Eastern Time; if you are in a different time zone, please adjust your submittal times accordingly. The instructor reserves the right to change dates accordingly as the semester progresses. All changes will be communicated in an appropriate manner.
+
+*Weekly Time Commitment:*
+
+You should expect to dedicate approximately 9 - 12 hours a week to this course. This expectation is based on the various course activities, assignments, and assessments and the University of Connecticut’s policy regarding credit hours.
+
 * About Generative AI
 Be careful when using generative AI such as ChatGPT, CoPilot, and Gemini. They
 can be helpful for checking your code or explaining codes you don't understand,
