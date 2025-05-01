@@ -134,6 +134,23 @@ All course due dates are identified in their respective submission portals on Hu
 
 You should expect to dedicate approximately 9 - 12 hours a week to this course. This expectation is based on the various course activities, assignments, and assessments and the University of Connecticut’s policy regarding credit hours.
 
+* Student Responsibilities and Resources
+
+As a member of the University of Connecticut student community, you are held to certain standards and academic
+policies. In addition, there are numerous resources available to help you succeed in your academic work. 
+Review these important [[https://onlinestudent.uconn.edu/learn--more/#POL][standards, policies and resources]], which include:
+- The Student Code
+  - Resources on Avoiding Cheating and Plagiarism
+- [[https://policy.uconn.edu/2023/07/11/academic-scholarly-and-professional-integrity-and-misconduct-aspim-policy-on/][Academic, Scholarly, and Professional Integrity and Misconduct (ASPIM)]]
+- Copyrighted Materials
+- Credit Hours and Workload
+- Netiquette and Communication
+- Adding or Dropping a Course
+- Academic Calendar
+- Policy Against Discrimination, Harassment and Inappropriate Romantic Relationships
+- Sexual Assault Reporting Policy
+
+
 * About Generative AI
 Be careful when using generative AI such as ChatGPT, CoPilot, and Gemini. They
 can be helpful for checking your code or explaining codes you don't understand,
@@ -161,15 +178,56 @@ committing an act of academic misconduct shall be equally accountable for the
 violation, and shall be subject to the sanctions and other remedies described in
 The Student Code.
 
-* Support Services
 
-- [[http://www.cmhs.uconn.edu/][Counseling and Mental Health Services]] 486-4705 (after hours, use 486-3427)
-- [[http://www.career.uconn.edu/][Career Services]] 486-3013
-- [[http://www.aod.uconn.edu/][Alcohol and Other Drug Services]] 486-9431
-- [[http://www.dos.uconn.edu/][Dean of Students Office]] 486-3426
-- [[http://www.csd.uconn.edu/][Center for Students with Disabilities]] 486-2020 (voice), 486-2077 (TDD)
-- Online Course Support: [[https://achieve.uconn.edu/online-course/]]
-- Keep Learning: [[https://onlinestudent.uconn.edu/keeplearning/]]
+* Student Health and Wellness
+
+The University of Connecticut strives to support the optimal well-being of all students. [[https://studenthealth.uconn.edu][Student Health and
+Wellness]] (SHaW) offers a comprehensive set of services including medical care, mental health, and health
+promotion.
+
+* Students with Disabilities
+
+The University of Connecticut is committed to protecting the rights of individuals with disabilities and assuring that the learning environment is accessible. Students who require accommodations should contact the Center for Students with Disabilities, Wilbur Cross Building Room 204, (860) 486-2020 or http://csd.uconn.edu/.
+
+Blackboard measures and evaluates accessibility using two sets of standards: the WCAG 2.0 standards issued by the World Wide Web Consortium (W3C) and Section 508 of the Rehabilitation Act issued in the United States federal government.” (Retrieved March 24, 2013 from [[https://www.anthology.com/products/teaching-and-learning/learning-effectiveness/blackboard][Blackboard's website]])
+
+* Software/Technical Requirements (with Accessibility and Privacy Information)
+
+The University has set minimum [[https://kb.uconn.edu/space/IKB/10852500927/Student+Device+Requirements][device requirements for all students]]. NOTE: Chromebooks do not meet the minimum requirements.
+
+The software/technical requirements for this course include:
+- HuskyCT/Blackboard ([[https://www.anthology.com/our-commitment-to-accessibility][HuskyCT/ Blackboard Accessibility Statement]], [[https://www.anthology.com/trust-center/privacy-statement][HuskyCT/ Blackboard Privacy Policy]])
+- [[https://get.adobe.com/reader/][Adobe Acrobat Reader]] ([[https://helpx.adobe.com/adobe-connect/using/accessibility-features.html][Adobe Reader Accessibility Statement]], [[https://www.adobe.com/privacy.html][Adobe Reader Privacy Policy]])
+- Python
+- Dedicated access to high-speed internet with a minimum speed of 1.5 Mbps (4 Mbps or higher is recommended).
+
+For information on managing your privacy at the University of Connecticut, visit the [[https://privacy.uconn.edu][University’s Privacy page]].
+
+* Help
+
+The [[https://kb.uconn.edu/space/TL/10763764102/Student+Support][IT Knowledge Base]] provides students with support, troubleshooting, and how-to information about HuskyCT. The [[https://kb.uconn.edu/space/TL/10763764102/Student+Support][IT Knowledge Base]] includes a video tour of HuskyCT.
+
+For technical help with HuskyCT, you have access to the in-person/live person support options available during
+regular business hours through the [[https://techsupport.uconn.edu][Technology Support Center]]. You also have [[https://uconn.edusupportcenter.com/shp/U_Conn/home][24x7 Course Support]] outside of business hours, including access to live chat, phone, and support documents.
+
+* Study Groups
+
+Are you interested in forming a study group with other students in the class? There is a study group application in Nexus that can help you get started. View this video for more information.
+
+* Minimum Technical Skills
+
+To be successful in this course, you will need the following technical skills:
+- Use electronic mail with attachments.
+- Copy and paste text, graphics or hyperlinks.
+- Work within two or more browser windows simultaneously.
+- Access PDF files.
+
+* Evaluation of the Course
+
+Students will be provided an opportunity to evaluate instruction in this course using the University's [[https://bpir.uconn.edu/home/institutional-research/set/][Student Experience of Teaching (SET)]], which is administered by the [[https://bpir.uconn.edu][Office of Budget, Planning and Institutional Research]] (BPIR).
+
+Additional informal formative surveys may also be administered within the course as an optional evaluation tool.
+
 
 * Disclaimer
 
